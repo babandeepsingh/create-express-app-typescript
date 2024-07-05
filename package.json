@@ -1,6 +1,6 @@
 {
   "name": "create-express-app-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI to automatically clone the Express typescript project",
   "main": "index.js",
   "bin": {
